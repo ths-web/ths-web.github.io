@@ -8,5 +8,6 @@ npm run build
 
 # navigate into the build output directory
 cd docs
+cp index.html 404.html
 
 echo 'ths-web.co.jp' > CNAME
