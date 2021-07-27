@@ -3,7 +3,7 @@
   <div id="hpb-footer">
     <div id="hpb-footerMain">
       <p>
-        copyright&#169;2014&nbsp;株式会社同花順&nbsp;Co., Ltd.
+        copyright&#169;2015&nbsp;ths-web&nbsp;Co., Ltd.
         all&nbsp;rights&nbsp;reserved.
       </p>
     </div>
