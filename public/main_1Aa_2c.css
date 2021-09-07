@@ -68,7 +68,7 @@
 
 
 
-#hpb-headerLogo li a{
+#hpb-headerLogo a{
 
     display: block;
 
@@ -94,7 +94,7 @@
 
     height: 75px;
 
-    background-image : url(top_banner_1Aa_01.png);
+    background-image : url(logo_1Aa_01.png);
 
     background-position: top left;
 
