@@ -11,7 +11,7 @@
       </li>
       <li id="nav-company">
         <router-link to="/company">
-          <span class="ja">会社概要test</span>
+          <span class="ja">会社概要</span>
           <span class="en">COMPANY</span>
         </router-link>
       </li>
@@ -22,25 +22,28 @@
         </router-link>
       </li>
       <li id="nav-service">
-        <a href="https://ths-web.co.jp/business.html"
-          ><span class="ja">業務内容</span><span class="en">BUSINESS</span></a
-        >
+        <router-link to="/business">
+          <span class="ja">業務内容</span>
+          <span class="en">BUSINESS</span>
+        </router-link>
       </li>
       <li id="nav-news">
-        <a href="https://ths-web.co.jp/product.html"
-          ><span class="ja">製品情報</span><span class="en">PRODUCT</span></a
-        >
+        <router-link to="/product">
+          <span class="ja">製品情報</span>
+          <span class="en">PRODUCT</span>
+        </router-link>
       </li>
       <li id="nav-recruit">
-        <a href="https://ths-web.co.jp/recruit.html"
-          ><span class="ja">採用情報</span><span class="en">RECRUIT</span></a
-        >
+        <router-link to="/recruit">
+          <span class="ja">採用情報</span>
+          <span class="en">RECRUIT</span>
+        </router-link>
       </li>
       <li id="nav-contact">
-        <a href="https://ths-web.co.jp/contact.html"
-          ><span class="ja">お問い合わせ</span
-          ><span class="en">CONTACT&nbsp;US</span></a
-        >
+         <router-link to="/contact">
+          <span class="ja">お問い合わせ</span>
+          <span class="en">CONTACT&nbsp;US</span>
+        </router-link>
       </li>
     </ul>
   </div>
