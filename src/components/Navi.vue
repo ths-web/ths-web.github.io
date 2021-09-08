@@ -15,7 +15,6 @@
           <span class="en">COMPANY</span>
         </router-link>
       </li>
-      <!--
       <li id="nav-concept">
         <router-link to="/concept">
           <span class="ja">経営理念</span>
@@ -43,7 +42,6 @@
           ><span class="en">CONTACT&nbsp;US</span></a
         >
       </li>
-      -->
     </ul>
   </div>
   <!-- navi end -->
