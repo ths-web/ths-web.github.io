@@ -11,7 +11,7 @@
       </li>
       <li id="nav-company">
         <router-link to="/company">
-          <span class="ja">会社概要</span>
+          <span class="ja">会社概要test</span>
           <span class="en">COMPANY</span>
         </router-link>
       </li>
