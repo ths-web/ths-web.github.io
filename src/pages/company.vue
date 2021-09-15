@@ -10,7 +10,7 @@
     <div id="hpb-main">
       <!-- company -->
       <div id="company">
-        <h3>会社概要</h3>
+        <h2>会社概要</h2>
         <dl>
           <dt>社名</dt>
           <dd>株式会社同花順</dd>
