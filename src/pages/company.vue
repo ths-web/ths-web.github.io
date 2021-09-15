@@ -7,7 +7,7 @@
     </div>
     <!-- page title end -->
     <!-- main -->
-    <div id="hpb-main">
+    <div id="hpb-main2">
       <!-- company -->
       <div id="company">
         <h3>会社概要</h3>

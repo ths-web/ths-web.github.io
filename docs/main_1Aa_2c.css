@@ -722,16 +722,6 @@ h2 span.en{
 
 }
 
-h3{
-
-    color: #1F939F;
-
-    font-size: 1.3em;
-    
-    background-image : url(content_title_1Aa.png);
-
-}
-
 .hpb-layoutset-02 #hpb-wrapper h3{
 
     margin-top: 0.5em;
@@ -972,7 +962,33 @@ input.s{
 
 /* メインコンテンツ内基本パーツ */
 
+#hpb-main2 h3{
 
+    margin-top: 0.5em;
+
+    margin-bottom: 0.5em;
+
+    height: 26px;
+
+    overflow: hidden;
+
+    background-image : url(content_title_1Aa.png);
+
+    background-position: top left;
+
+    background-repeat: no-repeat;
+
+    line-height: 28px;
+
+    padding-left: 10px;
+
+    text-align: left;
+
+    color: #ffffff;;
+
+    font-size: 1.3em;
+
+}
 
 #hpb-main ul{
 
