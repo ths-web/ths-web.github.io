@@ -17,7 +17,7 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import Header from "./components/Header.vue";
-<!--import Navi from "./components/Navi.vue"; -->
+import Navi from "./components/Navi.vue";
 import Aside from "./components/Aside.vue";
 import Footer from "./components/Footer.vue";
 
@@ -25,7 +25,7 @@ export default defineComponent({
   name: "App",
   components: {
     Header,
-    <!--Navi, -->
+    Navi,
     Aside,
     Footer,
   },
@@ -38,6 +38,7 @@ export default defineComponent({
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+  color: #2c3e50;
   margin-top: 60px;
 }
 </style>
