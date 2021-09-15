@@ -674,7 +674,7 @@ hr{
 
 .hpb-layoutset-02 h2{
 
-    background-image : url(content_title_1Aa.png);
+    background-image : url();
 
     width: 650px;
 
@@ -1272,7 +1272,7 @@ input.s{
 
     overflow: hidden;
 
-    background-image : url(content_title_1Aa.png);
+    background-image : url();
 
     background-position: top left;
 
