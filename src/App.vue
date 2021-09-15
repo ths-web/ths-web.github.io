@@ -17,7 +17,7 @@
 <script lang="ts">
 import { defineComponent } from "vue";
 import Header from "./components/Header.vue";
-import Navi from "./components/Navi.vue";
+<!--import Navi from "./components/Navi.vue"; -->
 import Aside from "./components/Aside.vue";
 import Footer from "./components/Footer.vue";
 
