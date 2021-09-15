@@ -1064,8 +1064,6 @@ input.s{
 
     min-height: 16px;
 
-    font-weight: bold;
-
     width: 170px !important;
 
     padding-top: 10px;
@@ -1082,7 +1080,7 @@ input.s{
 
     background-repeat: no-repeat;
 
-    color: #1F939F;
+    color: #000000;
 
 }
 
@@ -1284,7 +1282,7 @@ input.s{
 
     text-align: left;
 
-    color: #333333;
+    color: #1F939F;
 
     font-size: 1.5em;
 
@@ -1314,7 +1312,7 @@ input.s{
 
     text-align: left;
 
-    color: #333333;
+    color: #1F939F;
 
     font-size: 1.5em;
 
