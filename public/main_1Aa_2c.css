@@ -962,58 +962,6 @@ input.s{
 
 /* メインコンテンツ内基本パーツ */
 
-#hpb-main h7{
-
-    margin-top: 0em;
-
-    margin-bottom: 0.5em;
-
-    height: 26px;
-
-    overflow: hidden;
-
-    background-image : url(content_title_1Aa2.png);
-
-    background-position: top left;
-
-    background-repeat: no-repeat;
-
-    line-height: 28px;
-
-    padding-left: 10px;
-
-    text-align: left;
-
-    color: #ffffff;;
-
-    font-size: 1.3em;
-
-}
-
-#hpb-main h8{
-
-    margin-top: 0.5em;
-
-    margin-bottom: 0.5em;
-
-    text-align: left;
-
-    padding-top: 3px;
-
-    padding-left: 1px;
-
-    border-bottom-width: 2px;
-
-    border-bottom-style: solid;
-
-    border-bottom-color: #01838A;
-
-    font-size: 1.3em;
-
-    color: #33BFD2;
-
-}
-
 #hpb-main ul{
 
     margin-top: 0;
@@ -1298,8 +1246,6 @@ input.s{
 
     width: 900px;
 
-    background-image : url(top_mainimg_1Aa_01.png);
-
     background-position: top center;
 
     background-repeat: no-repeat;
@@ -1500,4 +1446,8 @@ span.error {
 
 .contactTxt table {
     margin-left: 25px;
+}
+
+.hpb-top-image{
+    background-image : url(top_banner_1Aa_03.png);
 }
