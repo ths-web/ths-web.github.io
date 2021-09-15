@@ -25,7 +25,7 @@ export default defineComponent({
   name: "App",
   components: {
     Header,
-    Navi,
+    <!--Navi, -->
     Aside,
     Footer,
   },
