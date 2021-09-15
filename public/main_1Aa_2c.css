@@ -1286,7 +1286,9 @@ input.s{
 
     color: #f48032;
 
-    font-size: 1.4em;
+    font-size: 1.5em;
+
+    text-shadow: 1px 2px 3px?#f6e734;
 
 }
 
@@ -1302,7 +1304,7 @@ input.s{
 
     overflow: hidden;
 
-    background-image : url(content_title_1Aa.png);
+    background-image : url();
 
     background-position: top left;
 
@@ -1316,7 +1318,9 @@ input.s{
 
     color: #f48032;
 
-    font-size: 1.4em;
+    font-size: 1.5em;
+
+    text-shadow: 1px 2px 3px?#f6e734;
 
 }
 
