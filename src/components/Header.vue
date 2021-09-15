@@ -1,9 +1,10 @@
 <template>
   <!-- header -->
   <div id="hpb-header">
+    <!--
     <div id="hpb-headerMain">
       <h1>株式会社同花順</h1>
-    </div>
+    </div>-->
     <div id="hpb-headerLogo">
       <a href="https://ths-web.co.jp/index.html">株式会社同花順</a>
     </div>
