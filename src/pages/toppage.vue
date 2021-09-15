@@ -28,10 +28,10 @@
         <div id="toppage-news">
           <h3><span class="en">NEWS</span><span class="ja">新着情報</span></h3>
           <dl>
-            <!-- <dt>2014年06月15日</dt>
-                                <dd>サイトを更新しました。</dd>
-                                <dt>2014年05月26日 </dt>
-                                <dd>会社を設立しました。</dd> -->
+            <dt>2014年06月15日</dt>
+            	<dd>サイトを更新しました。</dd>
+             <dt>2014年05月26日 </dt>
+                 <dd>会社を設立しました。</dd>
           </dl>
         </div>
         <div id="pagetop">
