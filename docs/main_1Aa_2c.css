@@ -1443,6 +1443,7 @@ span.error {
 }
 
 .hpb-top-image{
+    height: 235px;
     background-image : url(top_mainimg_1Aa_01.png);
 }
 
