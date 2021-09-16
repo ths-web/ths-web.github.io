@@ -2,7 +2,7 @@
   <!-- wrapper -->
   <div id="hpb-wrapper">
     <!-- page title -->
-    <div id="hpb-title">
+    <div id="hpb-title" class="company-image">
       <h2><span class="ja">会社概要</span><span class="en">COMPANY</span></h2>
     </div>
     <!-- page title end -->
@@ -10,7 +10,7 @@
     <div id="hpb-main">
       <!-- company -->
       <div id="company">
-        <h7>会社概要</h7>
+        <h3>会社概要</h3>
         <dl>
           <dt>社名</dt>
           <dd>株式会社同花順</dd>
@@ -29,7 +29,7 @@
           <dt>取引銀行</dt>
           <dd>みずほ銀行</dd>
         </dl>
-        <h8>沿革</h8>
+        <h2>沿革</h2>
         <dl>
           <dt>2015年10月</dt>
           <dd>東京都江東区北砂にて株式会社同花順を設立</dd>
