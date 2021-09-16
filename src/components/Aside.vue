@@ -5,17 +5,17 @@
     <div id="banner">
       <ul>
         <li>
-          <a href="https://ths-web.co.jp/service.html" id="banner-service"
+          <a href="/service" id="banner-service"
             >サービス／製品一覧</a
           >
         </li>
         <li>
-          <a href="https://ths-web.co.jp/recruit.html" id="banner-recruit"
+          <a href="/recruit" id="banner-recruit"
             >採用情報</a
           >
         </li>
         <li>
-          <a href="https://ths-web.co.jp/access.html" id="banner-access"
+          <a href="/access" id="banner-access"
             >アクセス</a
           >
         </li>
