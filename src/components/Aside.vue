@@ -5,7 +5,7 @@
     <div id="banner">
       <ul>
         <li>
-          <a href="/service" id="banner-service"
+          <a href="/business" id="banner-service"
             >サービス／製品一覧</a
           >
         </li>
@@ -15,7 +15,7 @@
           >
         </li>
         <li>
-          <a href="/access" id="banner-access"
+          <a href="/contact" id="banner-access"
             >アクセス</a
           >
         </li>
