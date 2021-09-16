@@ -1248,7 +1248,7 @@ input.s{
 
 
 
-#toppage-topics h3{
+#toppage-topics #toppage-news #company h3{
 
     margin-top: 0.5em;
 
@@ -1275,38 +1275,6 @@ input.s{
     font-size: 1.3em;
 
 }
-
-
-
-#toppage-news h3{
-
-    margin-top: 0.5em;
-
-    margin-bottom: 0.5em;
-
-    height: 26px;
-
-    overflow: hidden;
-
-    background-image : url(content_title_1Aa.png);
-
-    background-position: top left;
-
-    background-repeat: no-repeat;
-
-    line-height: 28px;
-
-    padding-left: 10px;
-
-    text-align: left;
-
-    color: #ffffff;;
-
-    font-size: 1.3em;
-
-
-}
-
 
 
 #toppage-news h3 span.ja{
