@@ -3,9 +3,7 @@
 
 
 /*--------------------------------------------------------
-
   共通レイアウトパーツ設定
-
 --------------------------------------------------------*/
 
 /* ヘッダー内パーツ */
@@ -451,9 +449,7 @@
 
 
 /*--------------------------------------------------------
-
   ナビゲーションデザイン設定
-
 --------------------------------------------------------*/
 
 
@@ -517,9 +513,7 @@
 
 
 /*--------------------------------------------------------
-
   基本パーツデザイン設定
-
 --------------------------------------------------------*/
 
 
@@ -1449,5 +1443,30 @@ span.error {
 }
 
 .hpb-top-image{
-    background-image : url(top_banner_1Aa_03.png);
+    background-image : url(top_mainimg_1Aa_01.png);
 }
+
+.business-image{
+    background-image : url(top_mainimg_1Aa_01.png);
+}
+
+.company-image{
+    background-image : url(top_mainimg_1Aa_01.png);
+}
+
+.concept-image{
+    background-image : url(top_mainimg_1Aa_01.png);
+}
+
+.contact-image{
+    background-image : url(top_mainimg_1Aa_01.png);
+}
+
+.product-image{
+    background-image : url(top_mainimg_1Aa_01.png);
+}
+
+.recruit-image{
+    background-image : url(top_mainimg_1Aa_01.png);
+}
+
