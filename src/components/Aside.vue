@@ -4,18 +4,18 @@
     <h3 class="hpb-c-index">バナースペース</h3>
     <div id="banner">
       <ul>
-        <li id="banner-service">
-          <router-link to="/business">
+        <li>
+          <router-link to="/business" id="banner-service">
             <span class="ja">業務内容1</span>
           </router-link>
         </li>
-        <li id="banner-recruit">
-          <router-link to="/recruit">
+        <li>
+          <router-link to="/recruit" id="banner-recruit">
             <span class="ja">採用情報</span>
           </router-link>
         </li>
-        <li id="banner-access">
-          <router-link to="/contact">
+        <li>
+          <router-link to="/contact" id="banner-access">
             <span class="ja">アクセス</span>
           </router-link>
         </li>
