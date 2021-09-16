@@ -22,10 +22,14 @@
             東京都江東区北砂１－３－４９－４０４<br />
             TEL. 03-6479-3143
           </dd>
-          <dt>資本金</dt>
-          <dd>500万円</dd>
           <dt>設立</dt>
           <dd>2015年10月</dd>
+          <dt>事業年度</dt>
+          <dd>10月初日～9月末日</dd>
+          <dt>資本金</dt>
+          <dd>500万円</dd>
+          <dt>売上高</dt>
+          <dd>1.2億円（2019年度）</dd>
           <dt>取引銀行</dt>
           <dd>みずほ銀行</dd>
         </dl>
@@ -34,7 +38,7 @@
           <dt>2015年10月</dt>
           <dd>東京都江東区大島にて株式会社同花順を設立</dd>
           <dt>2016年02月</dt>
-          <dd>東京都江東区北に移転</dd>
+          <dd>東京都江東区北砂に移転</dd>
         </dl>
         <div id="pagetop">
           <a href="https://www.livetech.co.jp/company.html#hpb-container"
