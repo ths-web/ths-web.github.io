@@ -6,7 +6,7 @@
       <ul>
         <li id="banner-service">
           <router-link to="/business">
-            <span class="ja">業務内容</span>
+            <span class="ja">業務内容1</span>
           </router-link>
         </li>
         <li id="banner-recruit">
