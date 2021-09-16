@@ -1451,14 +1451,39 @@ span.error {
     color: #92CDDC;
 }
 
-#concept h3{
+#toppage-topics h3{
 
-    background-image : url(concept_title_1Aa.png);
+    background-image : url(concept_title_1Aa_01.png);
 
 }
 
 #company h3{
 
     background-image : url(concept_title_1Aa_02.png);
+
+}
+
+#concept h3{
+
+    background-image : url(concept_title_1Aa_03.png);
+
+}
+
+#business h3{
+
+    background-image : url(concept_title_1Aa_04.png);
+
+}
+
+
+#recruit h3{
+
+    background-image : url(concept_title_1Aa_05.png);
+
+}
+
+#contact h3{
+
+    background-image : url(concept_title_1Aa_06.png);
 
 }
