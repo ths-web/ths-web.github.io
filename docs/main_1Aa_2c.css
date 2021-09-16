@@ -1438,3 +1438,15 @@ span.error {
     background-image : url(top_mainimg_1Aa_01.png);
 }
 
+.hpb-layoutset-01 #hpb-wrapper h4 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: left;
+    padding-top: 3px;
+    padding-left: 1px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #01838A;
+    font-size: 1.3em;
+    color: #33BFD2;
+}

@@ -26,7 +26,7 @@
           <hr />
         </div>
         <div id="toppage-news">
-          <h3><span class="en">NEWS</span><span class="ja">新着情報</span></h3>
+          <h4><span class="en">NEWS</span><span class="ja">新着情報</span></h4>
           <dl>
             <dt>2016年02月09日</dt>
             	<dd>会社を北砂に移転しました。</dd>
