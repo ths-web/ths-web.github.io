@@ -11,7 +11,7 @@
       <!-- toppage -->
       <div id="toppage">
         <div id="toppage-topics">
-          <h3>TOPICS</h3>
+          <h3></h3>
           <ul>
             <li>
               すべてのお客様から信頼される真のパートナーシップカンパニーを目指します。
@@ -26,7 +26,7 @@
           <hr />
         </div>
         <div id="toppage-news">
-          <h3><span class="en">NEWS</span></h3>
+          <h3><span class="en"></span></h3>
           <dl>
             <dt>2016年02月09日</dt>
             	<dd>会社を北砂に移転しました。</dd>
