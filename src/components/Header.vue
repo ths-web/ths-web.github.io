@@ -6,7 +6,7 @@
       <h1>株式会社同花順</h1>
     </div>-->
     <div id="hpb-headerLogo">
-      <a href="https://ths-web.co.jp/index.html">株式会社同花順</a>
+      <h1>株式会社同花順LOGO</h1>
     </div>
     <div id="hpb-headerExtra1">
       <p class="tel"><span>TEL. </span>03-6479-3143</p>
