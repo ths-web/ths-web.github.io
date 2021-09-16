@@ -1442,12 +1442,8 @@ span.error {
     margin-left: 25px;
 }
 
-.hpb-top-image1{
+.hpb-top-image{
     background-image : url(top_mainimg_1Aa_01.png);
-}
-
-.hpb-top-image2{
-    background-image : url(top_mainimg_1Aa_02.png);
 }
 
 .business-image{
