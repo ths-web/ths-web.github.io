@@ -27,12 +27,12 @@
           <span class="en">BUSINESS</span>
         </router-link>
       </li>
-      <li id="nav-news">
+      <!--<li id="nav-news">
         <router-link to="/product">
           <span class="ja">製品情報</span>
           <span class="en">PRODUCT</span>
         </router-link>
-      </li>
+      </li>-->
       <li id="nav-recruit">
         <router-link to="/recruit">
           <span class="ja">採用情報</span>
