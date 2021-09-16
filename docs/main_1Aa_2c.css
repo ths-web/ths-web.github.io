@@ -1248,7 +1248,7 @@ input.s{
 
 
 
-#toppage-topics #toppage-news #company h3{
+#toppage-topics #toppage-news h3{
 
     margin-top: 0.5em;
 
@@ -1270,7 +1270,7 @@ input.s{
 
     text-align: left;
 
-    color: #ffffff;;
+    color: #ffffff;
 
     font-size: 1.3em;
 
