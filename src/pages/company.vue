@@ -29,10 +29,12 @@
           <dt>取引銀行</dt>
           <dd>みずほ銀行</dd>
         </dl>
-        <h2>沿革</h2>
+        <h4>沿革</h4>
         <dl>
           <dt>2015年10月</dt>
-          <dd>東京都江東区北砂にて株式会社同花順を設立</dd>
+          <dd>東京都江東区大島にて株式会社同花順を設立</dd>
+          <dt>2016年02月</dt>
+          <dd>東京都江東区北に移転</dd>
         </dl>
         <div id="pagetop">
           <a href="https://www.livetech.co.jp/company.html#hpb-container"
