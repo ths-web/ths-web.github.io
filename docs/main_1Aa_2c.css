@@ -1258,7 +1258,7 @@ input.s{
 
     overflow: hidden;
 
-    background-image : url(content_title_1Aa.png);
+    background-image : url();
 
     background-position: top left;
 
@@ -1449,4 +1449,10 @@ span.error {
     border-bottom-color: #92CDDC;
     font-size: 1.3em;
     color: #92CDDC;
+}
+
+#concept h3{
+
+    background-image : url(concept_title_1Aa.png);
+
 }
