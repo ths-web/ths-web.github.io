@@ -9,8 +9,8 @@
       <h2>確かな技術と自由な発想　新しいライフスタイルをご提案します</h2>
     </div>-->
     <div id="hpb-title" >
-    <span class="hpb-top-image1"></span>
-    <span class="hpb-top-image2"></span>
+    <span class="hpb-top-image1"><h2>確かな技術と自由な発想　新しいライフスタイルをご提案します</h2></span>
+    <span class="hpb-top-image2"><h2>確かな技術と自由な発想　新しいライフスタイルをご提案します</h2></span>
     </div>
     <!-- page title end -->
     <!-- main -->
