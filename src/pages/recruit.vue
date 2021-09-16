@@ -31,9 +31,9 @@
           <dt>応募方法</dt>
           <dd>履歴書と職務経歴書をメールまたは郵送でお送りください。</dd>
           <dt>資料請求先</dt>
-          <dd>人事担当<br>
-          TEL. 03-6479-3143<br>
-          E-mail. info@ths-web.co.jp<br>
+          <dd>人事担当
+          TEL. 03-6479-3143
+          E-mail. info@ths-web.co.jp
           Wechat. shunzi55804578
           </dd>
           </dl>
