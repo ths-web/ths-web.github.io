@@ -10,7 +10,7 @@
     </div>
     <div id="hpb-headerExtra1">
       <p class="tel"><span>TEL. </span>03-6479-3143</p>
-      <p class="address">〒136-0073　東京都江東区北砂１－３－４９－４０４</p>
+      <p class="address">〒136-0073　東京都江東区北砂3-5-41-530</p>
     </div>
   </div>
   <!-- header end -->
