@@ -15,7 +15,7 @@
           <dt>会社名</dt>
           <dd>株式会社同花順</dd>
           <dt>電話</dt>
-          <dd>03-6479-3143</dd>
+          <dd>090-6009-8897</dd>
           <dt>メール</dt>
           <dd>info@ths-web.co.jp</dd>
           <dt>Wechat</dt>
